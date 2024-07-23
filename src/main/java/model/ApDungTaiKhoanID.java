@@ -12,4 +12,5 @@ import lombok.NoArgsConstructor;
 public class ApDungTaiKhoanID implements Serializable{
 	private KhuyenMai khuyenMai;
 	private LoaiTaiKhoan loaiTaiKhoan;
+	ádasd
 }
